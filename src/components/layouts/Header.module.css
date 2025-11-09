@@ -64,7 +64,7 @@
   border: 2px solid #0000003d;
   color: #fff;
   cursor: pointer;
-  animation: showBtn 0.5s forwards;
+  animation: showBtn 0.3s forwards;
 }
 .input button:hover {
   background-color: #b81200;
@@ -79,7 +79,7 @@
   padding: 5px;
   border-radius: 15px;
   box-shadow: 0 0 15px #000;
-  animation: showList 0.5s forwards;
+  animation: showList 0.3s forwards;
 }
 ::-webkit-scrollbar {
   width: 0;

@@ -4,7 +4,7 @@
   background-color: #fff;
   border-radius: 20px;
   box-shadow: 0 5px 15px #000;
-  animation: show 1s forwards;
+  animation: show 0.5s forwards;
   color: #000;
   display: flex;
   flex-direction: column;
